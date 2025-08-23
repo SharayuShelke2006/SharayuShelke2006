@@ -1,10 +1,5 @@
 ## Hi there I am Sharayu Shelke👋
 
-Got it! Here's an updated **GitHub README profile description** reflecting that you're a **B.Tech student in Artificial Intelligence and Data Science (AIDS)**:
-
----
-
-### 👋 Hi, I'm Sharayu Shelke
 
 🎓 I'm a **B.Tech student in Artificial Intelligence and Data Science (AIDS)** with a strong interest in building intelligent and scalable web applications.
 
@@ -33,7 +28,7 @@ Got it! Here's an updated **GitHub README profile description** reflecting that 
 
 ### 📫 Connect with Me
 
-* 🔗 [LinkedIn][(https://www.linkedin.com](https://www.linkedin.com/in/sharayu-shelke-bba44a37b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) (insert your link here)
+* 🔗 [LinkedIn][(https://www.linkedin.com/in/sharayu-shelke-bba44a37b/)] (insert your link here)
 * 
 * ✨ Always open to learning, collaboration, and exciting new challenges!
 
