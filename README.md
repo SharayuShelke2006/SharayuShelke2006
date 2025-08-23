@@ -28,7 +28,7 @@
 
 ### 📫 Connect with Me
 
-* 🔗 [LinkedIn][(https://www.linkedin.com/in/sharayu-shelke-bba44a37b/)] (insert your link here)
+* 🔗 [LinkedIn][(https://www.linkedin.com/in/sharayu-shelke-bba44a37b/)] 
 * 
 * ✨ Always open to learning, collaboration, and exciting new challenges!
 
