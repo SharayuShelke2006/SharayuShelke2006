@@ -28,6 +28,8 @@
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharayu%20Shelke-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharayu-shelke-bba44a37b/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Sharayu%20Shelke-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sharayushelke201)
+
 * ✨ Always open to learning, collaboration, and exciting new challenges!
 
 ---
