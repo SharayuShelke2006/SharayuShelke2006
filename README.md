@@ -45,5 +45,5 @@ Full Stack Developer | MERN Stack | AI & DS | GDGC DSA-CP | Python
 
 
 
-![](https://leetcard.jacoblin.cool/justsheruu?theme=unicorn)
+
 
